@@ -469,89 +469,173 @@ may ends ----------
 
 [so_true](https://twitter.com/abacaj/status/1676446885433810945)
 
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/puppet_happier.png" >
+</p>
 
+[puppet_happier](https://twitter.com/AISafetyMemes/status/1729121004880896422)
 
-C:\Users\root\Desktop\ML-2023\tweets\puppet_happier.png
-https://twitter.com/AISafetyMemes/status/1729121004880896422
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/more_than_q.png" >
+</p>
 
-pca_visual
+[more_than_q](https://twitter.com/ylecun/status/1728126868342145481)
 
-more than q
-https://twitter.com/ylecun/status/1728126868342145481
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_flashcards.png" >
+</p>
 
-ml_flashcards
-https://twitter.com/chrisalbon/status/1726616455964438668
+[ml_flashcards](https://twitter.com/chrisalbon/status/1726616455964438668)
 
-lora
-https://twitter.com/TivadarDanka/status/1726542276514791724
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/lora.png" >
+</p>
 
-gpt_context_attention
-https://twitter.com/ZainHasan6/status/1726338773158408268
+[lora](https://twitter.com/TivadarDanka/status/1726542276514791724)
 
-part_of_story
-https://twitter.com/tunguz/status/1725680150245728461
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/gpt_context_attention.png" >
+</p>
 
-joint plots
-https://twitter.com/freest_man/status/1723713119401525592
+[gpt_context_attention](https://twitter.com/ZainHasan6/status/1726338773158408268)
 
-learning_loops
-https://twitter.com/JoernLoviscach/status/1721227949754474608
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/part_of_story.png" >
+</p>
 
-they know
-https://twitter.com/TheGregYang/status/1721247954852626764
+[part_of_story](https://twitter.com/tunguz/status/1725680150245728461)
 
-before aopenai gate?
-https://twitter.com/proceduralia/status/1716893740365713856
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/joint_plots.png" >
+</p>
 
-the dataset effect
-https://twitter.com/rasbt/status/1719387776729375058
+[joint_plots](https://twitter.com/freest_man/status/1723713119401525592)
 
-legends
-https://twitter.com/ylecun/status/1715793616415654394
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/learning_loops.png" >
+</p>
 
-mean_lectures
-https://twitter.com/levikul09/status/1713846042058453173
+[learning_loops](https://twitter.com/JoernLoviscach/status/1721227949754474608)
 
-meaningless_loss
-https://twitter.com/Teknium1/status/1703227799979663408
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/they_know.png" >
+</p>
 
-C:\Users\root\Desktop\ML-2023\tweets\relu_knowledge.png
-https://twitter.com/levikul09/status/1702238113416761679
+[they_know](https://twitter.com/TheGregYang/status/1721247954852626764)
 
-C:\Users\root\Desktop\ML-2023\tweets\prompting_tricks.png
-https://twitter.com/deliprao/status/1700919366886334866
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/before_openai_gate.png" >
+</p>
 
-3d gaussian splatting
-https://twitter.com/alexcarliera/status/1699096373814079548
+[before_openai_gate](https://twitter.com/proceduralia/status/1716893740365713856)
 
-C:\Users\root\Desktop\ML-2023\tweets\seeds_for_u.png
-https://twitter.com/rasbt/status/1697612774287737226
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/the_dataset_effect.png" >
+</p>
 
-ml_fun cnn joke
-https://twitter.com/miniapeur/status/1695573709350695279
+[the_dataset_effect](https://twitter.com/rasbt/status/1719387776729375058)
 
-C:\Users\root\Desktop\ML-2023\tweets\cosine_similarity.png
-https://twitter.com/levikul09/status/1695372473896714423
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/legends.png" >
+</p>
 
-C:\Users\root\Desktop\ML-2023\tweets\ai_art.png
-https://twitter.com/Aiming_AI/status/1694329893293904030
+[legends](https://twitter.com/ylecun/status/1715793616415654394)
 
-C:\Users\root\Desktop\ML-2023\tweets\he_did_it.png
-https://twitter.com/chrisalbon/status/1693624071039160785
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/mean_lectures.png" >
+</p>
 
-C:\Users\root\Desktop\ML-2023\tweets\a_lot_of_ml.png
-https://twitter.com/DanKornas/status/1688836695494426624
+[mean_lectures](https://twitter.com/levikul09/status/1713846042058453173)
 
-C:\Users\root\Desktop\ML-2023\tweets\python_nice_ugly.png
-https://twitter.com/miniapeur/status/1690009212858896384
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/meaningless_loss.png" >
+</p>
 
+[meaningless_loss](https://twitter.com/Teknium1/status/1703227799979663408)
 
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/relu_knowledge.png" >
+</p>
 
+[relu_knowledge](https://twitter.com/levikul09/status/1702238113416761679)
 
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/prompting_tricks.png" >
+</p>
 
+[prompting_tricks](https://twitter.com/deliprao/status/1700919366886334866)
 
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/3d_gaussian_splatting.png" >
+</p>
 
+[3d_gaussian_splatting](https://twitter.com/alexcarliera/status/1699096373814079548)
 
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/seeds_for_u.png" >
+</p>
+
+[seeds_for_u](https://twitter.com/rasbt/status/1697612774287737226)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_fun.png" >
+</p>
+
+[ml_fun](https://twitter.com/miniapeur/status/1695573709350695279)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/cosine_similarity.png" >
+</p>
+
+[cosine_similarity](https://twitter.com/levikul09/status/1695372473896714423)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ai_art.png" >
+</p>
+
+[ai_art](https://twitter.com/Aiming_AI/status/1694329893293904030)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/he_did_it.png" >
+</p>
+
+[he_did_it](https://twitter.com/chrisalbon/status/1693624071039160785)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/a_lot_of_ml.png" >
+</p>
+
+[a_lot_of_ml](https://twitter.com/DanKornas/status/1688836695494426624)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/python_nice_ugly.png" >
+</p>
+
+[python_nice_ugly](https://twitter.com/miniapeur/status/1690009212858896384)
 
 
 ## Can't wait for Season 2 
