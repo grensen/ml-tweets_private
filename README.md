@@ -418,6 +418,57 @@ may ends ----------
 
 [wish_i_could](https://twitter.com/a_kazemnejad/status/1664277559968927744)
 
+## Jul
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/llama2_details.png" >
+</p>
+
+[wish_i_could](https://twitter.com/rasbt/status/1685996481915076608)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/idk.png" >
+</p>
+
+[idk](https://twitter.com/JoernLoviscach/status/1685741973364183040)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/doomer_stuff.png" >
+</p>
+
+[doomer_stuff](https://twitter.com/andyzou_jiaming/status/1684766170766004224)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/sad_stories.png" >
+</p>
+
+[sad_stories](https://twitter.com/dmimno/status/1684011858574057472)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/in_love_with_andrej.png" >
+</p>
+
+[in_love_with_andrej](https://twitter.com/karpathy/status/1683143097604243456)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/lost_in_the_middle.png" >
+</p>
+
+[lost_in_the_middle](https://twitter.com/AlphaSignalAI/status/1678093712998518784)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/so_true.png" >
+</p>
+
+[so_true](https://twitter.com/abacaj/status/1676446885433810945)
+
 
 
 C:\Users\root\Desktop\ML-2023\tweets\puppet_happier.png
@@ -494,28 +545,6 @@ https://twitter.com/DanKornas/status/1688836695494426624
 C:\Users\root\Desktop\ML-2023\tweets\python_nice_ugly.png
 https://twitter.com/miniapeur/status/1690009212858896384
 
-jul end ----------
-llama2_details.png
-https://twitter.com/rasbt/status/1685996481915076608
-
-idk
-https://twitter.com/JoernLoviscach/status/1685741973364183040
-
-doomer stuff
-https://twitter.com/andyzou_jiaming/status/1684766170766004224
-
-sad stories
-https://twitter.com/dmimno/status/1684011858574057472
-
-C:\Users\root\Desktop\ML-2023\tweets\in_love_with_andrej.png
-https://twitter.com/karpathy/status/1683143097604243456
-
-lost in the middle
-https://twitter.com/AlphaSignalAI/status/1678093712998518784
-
-so true
-https://twitter.com/abacaj/status/1676446885433810945
-jul start ++++++++++
 
 
 
