@@ -231,6 +231,195 @@ Just my journey on twitter this year.
 
 ## May...
 
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/open_is_open.png" >
+</p>
+
+[open_is_open](https://twitter.com/ykilcher/status/1647283816384405505)
+
+
+may ends ----------
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_tricks.png" >
+</p>
+
+[ml_tricks](https://twitter.com/FrnkNlsn/status/1663776990955188225)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/token_crisis.png" >
+</p>
+
+[token_crisis](https://twitter.com/rasbt/status/1663534498905051144)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/fake_till_GPT_make_it.png" >
+</p>
+
+[fake_till_GPT_make_it](https://twitter.com/karlbooklover/status/1661187387328802816)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_on_twitter.png" >
+</p>
+
+[ml_on_twitter](https://twitter.com/abacaj/status/1660638792355569665)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_project_ideas.png" >
+</p>
+
+[ml_project_ideas](https://twitter.com/paulabartabajo_/status/1658699428423688199)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/stable_difussion.png" >
+</p>
+
+[stable_difussion](https://twitter.com/shavonnewong_/status/1658096663226089473)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/thats_how_it_works.png" >
+</p>
+
+[thats_how_it_works](https://twitter.com/FreyaHolmer/status/1657847629496172544)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/transformer_two.png" >
+</p>
+
+[transformer_two](https://twitter.com/karpathy/status/1657949234535211009)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/be_aware_and_use_them.png" >
+</p>
+
+[be_aware_and_use_them](https://twitter.com/JoernLoviscach/status/1657658032455647234)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/attention_please.png" >
+</p>
+
+[attention_please](https://twitter.com/akshay_pachaar/status/1657368551471333384)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/not_only_llms.png" >
+</p>
+
+[not_only_llms](https://twitter.com/alyssamvance/status/1657204442746298368)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/how_it_starts.png" >
+</p>
+
+[how_it_starts](https://twitter.com/tunguz/status/1656749321633558538)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/say_hello_in_rl.png" >
+</p>
+
+[say_hello_in_rl](https://twitter.com/0xgaut/status/1656476983038038017)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/eigenvalues.png" >
+</p>
+
+[eigenvalues](https://twitter.com/TivadarDanka/status/1655879290146398208)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/fix_is_all_u_need.png" >
+</p>
+
+[fix_is_all_u_need](https://twitter.com/rasbt/status/1655575611979489282)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/no_moat.png" >
+</p>
+
+[no_moat](https://twitter.com/jelleprins/status/1654197249981796358)
+
+## June
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/more_context_more.png" >
+</p>
+
+[more_context_more](https://twitter.com/cwolferesearch/status/1674850478872461319)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/u_should_know_them.png" >
+</p>
+
+[u_should_know_them](https://twitter.com/MLStreetTalk/status/1672699066709336068)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/transformer_temperature.png" >
+</p>
+
+[transformer_temperature](https://twitter.com/cwolferesearch/status/1671628210180698112)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/she_is_now_ai_researcher.png" >
+</p>
+
+[she_is_now_ai_researcher](https://twitter.com/anammostarac/status/1670951084884647936)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/supports_xgboost_without_examples.png" >
+</p>
+
+[supports_xgboost_without_examples](https://twitter.com/tunguz/status/1669868842536022016)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/writes_nice_deep_learning_books.png" >
+</p>
+
+[writes_nice_deep_learning_books](https://twitter.com/francoisfleuret/status/1669751948487143424)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/good_questions.png" >
+</p>
+
+[good_questions](https://twitter.com/pmddomingos/status/1669072221489496070)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/prompt_miners.png" >
+</p>
+
+[prompt_miners](https://twitter.com/moritzkremb/status/1668982148106272771)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/wish_i_could.png" >
+</p>
+
+[wish_i_could](https://twitter.com/a_kazemnejad/status/1664277559968927744)
+
+
+
 C:\Users\root\Desktop\ML-2023\tweets\puppet_happier.png
 https://twitter.com/AISafetyMemes/status/1729121004880896422
 
@@ -329,91 +518,9 @@ https://twitter.com/abacaj/status/1676446885433810945
 jul start ++++++++++
 
 
-jun ends ----------
-
-C:\Users\root\Desktop\ML-2023\tweets\more_context_more.png
-https://twitter.com/cwolferesearch/status/1674850478872461319
-
-u should know them
-https://twitter.com/MLStreetTalk/status/1672699066709336068
-
-C:\Users\root\Desktop\ML-2023\tweets\transformer_temperature.png
-https://twitter.com/cwolferesearch/status/1671628210180698112
-
-C:\Users\root\Desktop\ML-2023\tweets\she_is_now_ai_researcher.png
-https://twitter.com/anammostarac/status/1670951084884647936
-
-C:\Users\root\Desktop\ML-2023\tweets\supports_xgboost_without_examples.png
-https://twitter.com/tunguz/status/1669868842536022016
-
-writes_nice_deep_learning_books
-https://twitter.com/francoisfleuret/status/1669751948487143424
-
-C:\Users\root\Desktop\ML-2023\tweets\good_questions.png
-https://twitter.com/pmddomingos/status/1669072221489496070
-
-C:\Users\root\Desktop\ML-2023\tweets\prompt_miners.png
-https://twitter.com/moritzkremb/status/1668982148106272771
-
-C:\Users\root\Desktop\ML-2023\tweets\wish_i_could.png
-https://twitter.com/a_kazemnejad/status/1664277559968927744
-
-jun start ++++++++++
 
 
 
-may ends ----------
-
-ml tricks
-https://twitter.com/FrnkNlsn/status/1663776990955188225
-
-C:\Users\root\Desktop\ML-2023\tweets\token_crisis.png
-https://twitter.com/rasbt/status/1663534498905051144
-
-fake_till_GPT_make_it.png
-https://twitter.com/karlbooklover/status/1661187387328802816
-
-C:\Users\root\Desktop\ML-2023\tweets\ml_on_twitter.png
-https://twitter.com/abacaj/status/1660638792355569665
-
-C:\Users\root\Desktop\ML-2023\tweets\ml_project_ideas.png
-https://twitter.com/paulabartabajo_/status/1658699428423688199
-
-stable diffusion
-https://twitter.com/shavonnewong_/status/1658096663226089473
-
-
-C:\Users\root\Desktop\ML-2023\tweets\thats_how_it_works.png
-https://twitter.com/FreyaHolmer/status/1657847629496172544
-
-C:\Users\root\Desktop\ML-2023\tweets\transformer_two.png
-https://twitter.com/karpathy/status/1657949234535211009
-
-be_aware_and_use_them
-https://twitter.com/JoernLoviscach/status/1657658032455647234
-
-C:\Users\root\Desktop\ML-2023\tweets\attention_please.png
-https://twitter.com/akshay_pachaar/status/1657368551471333384
-
-C:\Users\root\Desktop\ML-2023\tweets\not_only_llms.png
-https://twitter.com/alyssamvance/status/1657204442746298368
-
-C:\Users\root\Desktop\ML-2023\tweets\how_it_starts.png
-https://twitter.com/tunguz/status/1656749321633558538
-
-say_hello_in_rl.png
-https://twitter.com/0xgaut/status/1656476983038038017
-
-C:\Users\root\Desktop\ML-2023\tweets\eigenvalues.png
-https://twitter.com/TivadarDanka/status/1655879290146398208
-
-C:\Users\root\Desktop\ML-2023\tweets\fix_is_all_u_need.png
-https://twitter.com/rasbt/status/1655575611979489282
-
-C:\Users\root\Desktop\ML-2023\tweets\no_moat.png
-https://twitter.com/jelleprins/status/1654197249981796358
-
-may starts ++++++++++
 
 
 
