@@ -56,7 +56,7 @@ Just my journey on twitter this year.
 ##
 
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/i_know_nine" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/i_know_nine.png" >
 </p>
 
 [i_know_nine](https://twitter.com/kaggle/status/1628424802112348164)
@@ -64,7 +64,7 @@ Just my journey on twitter this year.
 ##
 
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ban_python" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ban_python.png" >
 </p>
 
 [ban_python](https://twitter.com/ylecun/status/1628386056641847296)
@@ -72,7 +72,7 @@ Just my journey on twitter this year.
 ##
 
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/he_spent_100_million" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/he_spent_100_million.png" >
 </p>
 
 [he_spent_100_million](https://twitter.com/elonmusk/status/1626516035863212034)
