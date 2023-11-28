@@ -185,6 +185,237 @@ Just my journey on twitter this year.
 
 [good_aiming](https://twitter.com/terrajobst/status/1634590294737039360)
 
+## April
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/voice_audio_translation.png" >
+</p>
+
+[voice_audio_translation](https://twitter.com/heyBarsee/status/1652625721309765632)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/sota_ai_rap.png" >
+</p>
+
+[sota_ai_rap](https://twitter.com/ricburton/status/1650695702849392641)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/i_like.png" >
+</p>
+
+[i_like](https://twitter.com/ylecun/status/1650521188307726337)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/agi_in_python.png" >
+</p>
+
+[agi_in_python](https://twitter.com/tunguz/status/1649442898537254914)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/crazy_deep.png" >
+</p>
+
+[crazy_deep](https://twitter.com/jeffreycider/status/1648407808440778755)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/open_is_open.png" >
+</p>
+
+[open_is_open](https://twitter.com/ykilcher/status/1647283816384405505)
+
+## May...
+
+C:\Users\root\Desktop\ML-2023\tweets\puppet_happier.png
+https://twitter.com/AISafetyMemes/status/1729121004880896422
+
+pca_visual
+
+more than q
+https://twitter.com/ylecun/status/1728126868342145481
+
+ml_flashcards
+https://twitter.com/chrisalbon/status/1726616455964438668
+
+lora
+https://twitter.com/TivadarDanka/status/1726542276514791724
+
+gpt_context_attention
+https://twitter.com/ZainHasan6/status/1726338773158408268
+
+part_of_story
+https://twitter.com/tunguz/status/1725680150245728461
+
+joint plots
+https://twitter.com/freest_man/status/1723713119401525592
+
+learning_loops
+https://twitter.com/JoernLoviscach/status/1721227949754474608
+
+they know
+https://twitter.com/TheGregYang/status/1721247954852626764
+
+before aopenai gate?
+https://twitter.com/proceduralia/status/1716893740365713856
+
+the dataset effect
+https://twitter.com/rasbt/status/1719387776729375058
+
+legends
+https://twitter.com/ylecun/status/1715793616415654394
+
+mean_lectures
+https://twitter.com/levikul09/status/1713846042058453173
+
+meaningless_loss
+https://twitter.com/Teknium1/status/1703227799979663408
+
+C:\Users\root\Desktop\ML-2023\tweets\relu_knowledge.png
+https://twitter.com/levikul09/status/1702238113416761679
+
+C:\Users\root\Desktop\ML-2023\tweets\prompting_tricks.png
+https://twitter.com/deliprao/status/1700919366886334866
+
+3d gaussian splatting
+https://twitter.com/alexcarliera/status/1699096373814079548
+
+C:\Users\root\Desktop\ML-2023\tweets\seeds_for_u.png
+https://twitter.com/rasbt/status/1697612774287737226
+
+ml_fun cnn joke
+https://twitter.com/miniapeur/status/1695573709350695279
+
+C:\Users\root\Desktop\ML-2023\tweets\cosine_similarity.png
+https://twitter.com/levikul09/status/1695372473896714423
+
+C:\Users\root\Desktop\ML-2023\tweets\ai_art.png
+https://twitter.com/Aiming_AI/status/1694329893293904030
+
+C:\Users\root\Desktop\ML-2023\tweets\he_did_it.png
+https://twitter.com/chrisalbon/status/1693624071039160785
+
+C:\Users\root\Desktop\ML-2023\tweets\a_lot_of_ml.png
+https://twitter.com/DanKornas/status/1688836695494426624
+
+C:\Users\root\Desktop\ML-2023\tweets\python_nice_ugly.png
+https://twitter.com/miniapeur/status/1690009212858896384
+
+jul end ----------
+llama2_details.png
+https://twitter.com/rasbt/status/1685996481915076608
+
+idk
+https://twitter.com/JoernLoviscach/status/1685741973364183040
+
+doomer stuff
+https://twitter.com/andyzou_jiaming/status/1684766170766004224
+
+sad stories
+https://twitter.com/dmimno/status/1684011858574057472
+
+C:\Users\root\Desktop\ML-2023\tweets\in_love_with_andrej.png
+https://twitter.com/karpathy/status/1683143097604243456
+
+lost in the middle
+https://twitter.com/AlphaSignalAI/status/1678093712998518784
+
+so true
+https://twitter.com/abacaj/status/1676446885433810945
+jul start ++++++++++
+
+
+jun ends ----------
+
+C:\Users\root\Desktop\ML-2023\tweets\more_context_more.png
+https://twitter.com/cwolferesearch/status/1674850478872461319
+
+u should know them
+https://twitter.com/MLStreetTalk/status/1672699066709336068
+
+C:\Users\root\Desktop\ML-2023\tweets\transformer_temperature.png
+https://twitter.com/cwolferesearch/status/1671628210180698112
+
+C:\Users\root\Desktop\ML-2023\tweets\she_is_now_ai_researcher.png
+https://twitter.com/anammostarac/status/1670951084884647936
+
+C:\Users\root\Desktop\ML-2023\tweets\supports_xgboost_without_examples.png
+https://twitter.com/tunguz/status/1669868842536022016
+
+writes_nice_deep_learning_books
+https://twitter.com/francoisfleuret/status/1669751948487143424
+
+C:\Users\root\Desktop\ML-2023\tweets\good_questions.png
+https://twitter.com/pmddomingos/status/1669072221489496070
+
+C:\Users\root\Desktop\ML-2023\tweets\prompt_miners.png
+https://twitter.com/moritzkremb/status/1668982148106272771
+
+C:\Users\root\Desktop\ML-2023\tweets\wish_i_could.png
+https://twitter.com/a_kazemnejad/status/1664277559968927744
+
+jun start ++++++++++
+
+
+
+may ends ----------
+
+ml tricks
+https://twitter.com/FrnkNlsn/status/1663776990955188225
+
+C:\Users\root\Desktop\ML-2023\tweets\token_crisis.png
+https://twitter.com/rasbt/status/1663534498905051144
+
+fake_till_GPT_make_it.png
+https://twitter.com/karlbooklover/status/1661187387328802816
+
+C:\Users\root\Desktop\ML-2023\tweets\ml_on_twitter.png
+https://twitter.com/abacaj/status/1660638792355569665
+
+C:\Users\root\Desktop\ML-2023\tweets\ml_project_ideas.png
+https://twitter.com/paulabartabajo_/status/1658699428423688199
+
+stable diffusion
+https://twitter.com/shavonnewong_/status/1658096663226089473
+
+
+C:\Users\root\Desktop\ML-2023\tweets\thats_how_it_works.png
+https://twitter.com/FreyaHolmer/status/1657847629496172544
+
+C:\Users\root\Desktop\ML-2023\tweets\transformer_two.png
+https://twitter.com/karpathy/status/1657949234535211009
+
+be_aware_and_use_them
+https://twitter.com/JoernLoviscach/status/1657658032455647234
+
+C:\Users\root\Desktop\ML-2023\tweets\attention_please.png
+https://twitter.com/akshay_pachaar/status/1657368551471333384
+
+C:\Users\root\Desktop\ML-2023\tweets\not_only_llms.png
+https://twitter.com/alyssamvance/status/1657204442746298368
+
+C:\Users\root\Desktop\ML-2023\tweets\how_it_starts.png
+https://twitter.com/tunguz/status/1656749321633558538
+
+say_hello_in_rl.png
+https://twitter.com/0xgaut/status/1656476983038038017
+
+C:\Users\root\Desktop\ML-2023\tweets\eigenvalues.png
+https://twitter.com/TivadarDanka/status/1655879290146398208
+
+C:\Users\root\Desktop\ML-2023\tweets\fix_is_all_u_need.png
+https://twitter.com/rasbt/status/1655575611979489282
+
+C:\Users\root\Desktop\ML-2023\tweets\no_moat.png
+https://twitter.com/jelleprins/status/1654197249981796358
+
+may starts ++++++++++
+
+
 
 
 ## Can't wait for Season 2 
