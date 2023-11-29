@@ -646,7 +646,7 @@ may ends ----------
 
 ##  
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/pika.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/pika_image_video.png" >
 </p>
 
 [pika](https://twitter.com/karpathy/status/1729545506890932536)
@@ -712,7 +712,7 @@ may ends ----------
 
 ##  
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/cant_wait_for_season_2.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/season2.png" >
 </p>
 
 [Season 2](https://twitter.com/y_a_z_i_i_d/status/1728882879697199404)
