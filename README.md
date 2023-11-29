@@ -637,6 +637,69 @@ may ends ----------
 
 [python_nice_ugly](https://twitter.com/miniapeur/status/1690009212858896384)
 
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/aim.png" >
+</p>
+
+[aim](https://twitter.com/MSFTResearch/status/1673730913471979522)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/pika.png" >
+</p>
+
+[pika](https://twitter.com/karpathy/status/1729545506890932536)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/dynamic_weights.png" >
+</p>
+
+[dynamic_weights](https://twitter.com/rasbt/status/1683474818790825985)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/bard.png" >
+</p>
+
+[bard](https://twitter.com/KevinAFischer/status/1638598080949022720)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/gmail_bard.png" >
+</p>
+
+[gmail_bard](https://twitter.com/katecrawford/status/1638524011876433921)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_drops.png" >
+</p>
+
+[ml_drops](https://twitter.com/DeepLearningAI/status/1645415085970432000)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/do_better.png" >
+</p>
+
+[do_better](https://twitter.com/emollick/status/1658698874117308417)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/nerfed_gpt.png" >
+</p>
+
+[nerfed_gpt](https://twitter.com/MLStreetTalk/status/1681601123424116736)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/means.png" >
+</p>
+
+[means](https://twitter.com/levikul09/status/1699074925007679626)
+
 
 ## Can't wait for Season 2 
 
@@ -645,3 +708,11 @@ may ends ----------
 </p>
 
 [Can't wait for Season 2](https://twitter.com/fchollet/status/1727210594879873162), My winning tweet this year!
+
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/cant_wait_for_season_2.png" >
+</p>
+
+[Season 2](https://twitter.com/y_a_z_i_i_d/status/1728882879697199404)
