@@ -34,7 +34,6 @@ Just my journey on twitter this year.
 [and_i_learn_it](https://twitter.com/karpathy/status/1617979122625712128)
 
 ##
-
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/is_that_true.png" >
 </p>
@@ -44,26 +43,33 @@ Just my journey on twitter this year.
 ## Feb
 
 ##
+
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/i_know_nine.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/political_ai.png" >
 </p>
 
-[i_know_nine](https://twitter.com/kaggle/status/1628424802112348164)
+[political_ai](https://twitter.com/LeighWolf/status/1620744921241251842)
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ban_python.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/similar_words.png" >
 </p>
 
-[ban_python](https://twitter.com/ylecun/status/1628386056641847296)
+[similar_words](https://twitter.com/SerranoAcademy/status/1621622486310739969)
 
 ##
-
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/he_spent_100_million.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/true_relu.png" >
 </p>
 
-[he_spent_100_million](https://twitter.com/elonmusk/status/1626516035863212034)
+[true_relu](https://twitter.com/svpino/status/1623305669695930368)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ai_went_nuts.png" >
+</p>
+
+[ai_went_nuts](https://twitter.com/LinusEkenstam/status/1624185256344530944)
 
 ##
 <p align="center">
@@ -74,35 +80,24 @@ Just my journey on twitter this year.
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ai_went_nuts.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/he_spent_100_million.png" >
 </p>
 
-[ai_went_nuts](https://twitter.com/LinusEkenstam/status/1624185256344530944)
-
-##
-
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/true_relu.png" >
-</p>
-
-[true_relu](https://twitter.com/svpino/status/1623305669695930368)
-
-##
-
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/political_ai.png" >
-</p>
-
-[political_ai](https://twitter.com/LeighWolf/status/1620744921241251842)
-
+[he_spent_100_million](https://twitter.com/elonmusk/status/1626516035863212034)
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/similar_words.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ban_python.png" >
 </p>
 
-[similar_words](https://twitter.com/SerranoAcademy/status/1621622486310739969)
+[ban_python](https://twitter.com/ylecun/status/1628386056641847296)
 
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/i_know_nine.png" >
+</p>
+
+[i_know_nine](https://twitter.com/kaggle/status/1628424802112348164)
 
 ## March
 
@@ -392,7 +387,7 @@ may ends ----------
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/writes_nice_deep_learning_books.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/writes_nice_dl_books.png" >
 </p>
 
 [writes_nice_deep_learning_books](https://twitter.com/francoisfleuret/status/1669751948487143424)
