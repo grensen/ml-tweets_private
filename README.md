@@ -66,7 +66,7 @@ Just my journey on twitter this year.
 
 [Self-attention and cross-attention](https://twitter.com/rasbt/status/1624441393182539777)
 
-## 9
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/he_spent_100_million.png" >
 </p>
@@ -87,7 +87,7 @@ Just my journey on twitter this year.
 
 [More datasets!!!](https://twitter.com/kaggle/status/1628424802112348164)
 
-## March
+## Mar
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/good_aiming.png" >
 </p>
@@ -178,8 +178,33 @@ Just my journey on twitter this year.
 
 [Flash attention to get_more_context](https://twitter.com/Mascobot/status/1641871754170875905)
 
+## Apr  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_drops.png" >
+</p>
 
-## April
+[You know that, or?](https://twitter.com/DeepLearningAI/status/1645415085970432000)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/open_is_open.png" >
+</p>
+
+[Still Open-AI](https://twitter.com/ykilcher/status/1647283816384405505)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/crazy_deep.png" >
+</p>
+
+[Quantum leap diversity](https://twitter.com/jeffreycider/status/1648407808440778755)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/agi_in_python.png" >
+</p>
+
+[Madness, this is your world...](https://twitter.com/tunguz/status/1649442898537254914)
 
 ##
 <p align="center">
@@ -202,30 +227,7 @@ Just my journey on twitter this year.
 
 [Ace!](https://twitter.com/ylecun/status/1650521188307726337)
 
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/agi_in_python.png" >
-</p>
-
-[Madness, this is your world...](https://twitter.com/tunguz/status/1649442898537254914)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/crazy_deep.png" >
-</p>
-
-[Quantum leap diversity](https://twitter.com/jeffreycider/status/1648407808440778755)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/open_is_open.png" >
-</p>
-
-[Still Open-AI](https://twitter.com/ykilcher/status/1647283816384405505)
-
-## May...
-
-##
+## May
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_tricks.png" >
 </p>
@@ -330,7 +332,7 @@ Just my journey on twitter this year.
 
 [No moat, Germans understand](https://twitter.com/jelleprins/status/1654197249981796358)
 
-## June
+## Jun
 
 ##
 <p align="center">
@@ -395,6 +397,13 @@ Just my journey on twitter this year.
 
 [Wish I could](https://twitter.com/a_kazemnejad/status/1664277559968927744)
 
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/aim.png" >
+</p>
+
+[AIM, remember that](https://twitter.com/MSFTResearch/status/1673730913471979522)
+
 ## Jul
 
 ##
@@ -445,6 +454,8 @@ Just my journey on twitter this year.
 </p>
 
 [State of the art in capitalism](https://twitter.com/abacaj/status/1676446885433810945)
+
+## Aug
 
 ##
 <p align="center">
@@ -616,13 +627,6 @@ Just my journey on twitter this year.
 
 ##  
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/aim.png" >
-</p>
-
-[AIM, remember that](https://twitter.com/MSFTResearch/status/1673730913471979522)
-
-##  
-<p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/pika_image_video.png" >
 </p>
 
@@ -634,13 +638,6 @@ Just my journey on twitter this year.
 </p>
 
 [Dynamic weights, I need to think about that](https://twitter.com/rasbt/status/1683474818790825985)
-
-##  
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_drops.png" >
-</p>
-
-[You know that, or?](https://twitter.com/DeepLearningAI/status/1645415085970432000)
 
 ##  
 <p align="center">
