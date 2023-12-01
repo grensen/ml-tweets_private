@@ -3,6 +3,8 @@
 
 Just my journey on twitter this year.
 
+[Jan](#jan),[Feb](#feb),[Mar](#mar),[Apr](#apr)
+
 ## Jan
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/force_of_cnns.png" >
