@@ -457,7 +457,55 @@ Just my journey on Twitter this year
 
 [State of the art in capitalism](https://twitter.com/abacaj/status/1676446885433810945)
 
+
 ## Aug
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_fun.png" >
+</p>
+
+[ML fun, thats my detection system below](https://twitter.com/miniapeur/status/1695573709350695279)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/cosine_similarity.png" >
+</p>
+
+[Cosine similarity](https://twitter.com/levikul09/status/1695372473896714423)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ai_art.png" >
+</p>
+
+[AI in such a handsome way](https://twitter.com/Aiming_AI/status/1694329893293904030)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/he_did_it.png" >
+</p>
+
+[He did it, another flashcard](https://twitter.com/chrisalbon/status/1693624071039160785)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/a_lot_of_ml.png" >
+</p>
+
+[A lot of ML stuff](https://twitter.com/DanKornas/status/1688836695494426624)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/python_nice_ugly.png" >
+</p>
+
+[Python everytime!](https://twitter.com/miniapeur/status/1690009212858896384)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/pika_image_video.png" >
+</p>
+
+[Pika, the movie maker](https://twitter.com/karpathy/status/1729545506890932536)
 
 ##
 <p align="center">
@@ -522,35 +570,7 @@ Just my journey on Twitter this year
 
 [Grok grokked it](https://twitter.com/TheGregYang/status/1721247954852626764)
 
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/before_openai_gate.png" >
-</p>
-
-[Is this the upcoming Q* that everyone is talking about?](https://twitter.com/proceduralia/status/1716893740365713856)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/the_dataset_effect.png" >
-</p>
-
-[The dataset effect](https://twitter.com/rasbt/status/1719387776729375058)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/legends.png" >
-</p>
-
-[ML/AI Legends](https://twitter.com/ylecun/status/1715793616415654394)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/mean_lectures.png" >
-</p>
-
-[Means, means, means](https://twitter.com/levikul09/status/1713846042058453173)
-
-##
+## Sep
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/meaningless_loss.png" >
 </p>
@@ -585,54 +605,34 @@ Just my journey on Twitter this year
 
 [Improve your deep learning models](https://twitter.com/rasbt/status/1697612774287737226)
 
-##
+## Oct
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_fun.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/before_openai_gate.png" >
 </p>
 
-[ML fun, thats my detection system below](https://twitter.com/miniapeur/status/1695573709350695279)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/cosine_similarity.png" >
-</p>
-
-[Cosine similarity](https://twitter.com/levikul09/status/1695372473896714423)
+[Is this the upcoming Q* that everyone is talking about?](https://twitter.com/proceduralia/status/1716893740365713856)
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ai_art.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/the_dataset_effect.png" >
 </p>
 
-[AI in such a handsome way](https://twitter.com/Aiming_AI/status/1694329893293904030)
+[The dataset effect](https://twitter.com/rasbt/status/1719387776729375058)
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/he_did_it.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/legends.png" >
 </p>
 
-[He did it, another flashcard](https://twitter.com/chrisalbon/status/1693624071039160785)
+[ML/AI Legends](https://twitter.com/ylecun/status/1715793616415654394)
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/a_lot_of_ml.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/mean_lectures.png" >
 </p>
 
-[A lot of ML stuff](https://twitter.com/DanKornas/status/1688836695494426624)
+[Means, means, means](https://twitter.com/levikul09/status/1713846042058453173)
 
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/python_nice_ugly.png" >
-</p>
-
-[Python everytime!](https://twitter.com/miniapeur/status/1690009212858896384)
-
-##  
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/pika_image_video.png" >
-</p>
-
-[Pika, the movie maker](https://twitter.com/karpathy/status/1729545506890932536)
 
 ##  
 <p align="center">
