@@ -1,9 +1,9 @@
 
-# My Top 100 ML Tweets 2023
+# My Top ML Tweets 2023
 
-Just my journey on twitter this year.
+Just my journey on Twitter this year
 
-[Jan](#jan),[Feb](#feb),[Mar](#mar),[Apr](#apr)
+[Jan](#jan),[Feb](#feb),[Mar](#mar),[Apr](#apr),[May](#may),[Jun](#jun),[Jul](#jun),[Aug](#aug),[Sep](#sep),[Oct](#oct),[Nov](#nov),[Dec](#dec)
 
 ## Jan
 <p align="center">
