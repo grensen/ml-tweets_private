@@ -4,29 +4,27 @@
 Just my journey on twitter this year.
 
 ## Jan
-
-## 1
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/force_of_cnns.png" >
 </p>
 
 [CNNs strike back](https://twitter.com/rasbt/status/1612113816363610112)
 
-## 2
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/crazy_2023.png" >
 </p>
 
 [Stable Diffusion v2](https://twitter.com/JoernLoviscach/status/1614200028263813121)
 
-## 3
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/and_i_learn_it.png" >
 </p>
 
 [LLMs like ChatGPT are English speakers](https://twitter.com/karpathy/status/1617979122625712128)
 
-## 4
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/is_that_true.png" >
 </p>
@@ -34,37 +32,34 @@ Just my journey on twitter this year.
 [True words](https://twitter.com/svpino/status/1619319438825885698)
 
 ## Feb
-
-##
-
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/political_ai.png" >
 </p>
 
 [Political AI](https://twitter.com/LeighWolf/status/1620744921241251842)
 
-## 5
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/similar_words.png" >
 </p>
 
 [Semantic similarity in LLMs](https://twitter.com/SerranoAcademy/status/1621622486310739969)
 
-## 6
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/true_relu.png" >
 </p>
 
 [Yeah, it's the best activation we have!](https://twitter.com/svpino/status/1623305669695930368)
 
-## 7
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ai_went_nuts.png" >
 </p>
 
 [Real Guetta with AI Eminem and people went nuts!](https://twitter.com/LinusEkenstam/status/1624185256344530944)
 
-## 8
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/self_attention.png" >
 </p>
@@ -78,14 +73,14 @@ Just my journey on twitter this year.
 
 [He has donated 100 million](https://twitter.com/elonmusk/status/1626516035863212034)
 
-## 10
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ban_python.png" >
 </p>
 
 [Yann > Bojan](https://twitter.com/ylecun/status/1628386056641847296)
 
-## 11
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/i_know_nine.png" >
 </p>
@@ -93,22 +88,27 @@ Just my journey on twitter this year.
 [More datasets!!!](https://twitter.com/kaggle/status/1628424802112348164)
 
 ## March
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/good_aiming.png" >
+</p>
 
-## 12
+[This is how we do it](https://twitter.com/terrajobst/status/1634590294737039360)
+
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ai_addition.png" >
 </p>
 
 [AI image addition](https://twitter.com/laurentdelrey/status/1636800965553815554)
 
-## 13
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/sparse_transformers.png" >
 </p>
 
 [Sparse_transformer](https://twitter.com/finbarrtimbers/status/1637126821190959104)
 
-## 14
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/llms_in_all_devices.png" >
 </p>
@@ -143,12 +143,19 @@ Just my journey on twitter this year.
 
 [Statquest, BAM! BAM! BAM!](https://twitter.com/joshuastarmer/status/1635259006276222976)
 
-##
+##  
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/good_aiming.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/bard.png" >
 </p>
 
-[This is how we do it](https://twitter.com/terrajobst/status/1634590294737039360)
+[Bard after meeting ChatGPT](https://twitter.com/KevinAFischer/status/1638598080949022720)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/gmail_bard.png" >
+</p>
+
+[Bard!!! Cheaters!!!](https://twitter.com/katecrawford/status/1638524011876433921)
 
 ##
 <p align="center">
@@ -627,20 +634,6 @@ Just my journey on twitter this year.
 </p>
 
 [Dynamic weights, I need to think about that](https://twitter.com/rasbt/status/1683474818790825985)
-
-##  
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/bard.png" >
-</p>
-
-[Bard after meeting ChatGPT](https://twitter.com/KevinAFischer/status/1638598080949022720)
-
-##  
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/gmail_bard.png" >
-</p>
-
-[Bard!!! Cheaters!!!](https://twitter.com/katecrawford/status/1638524011876433921)
 
 ##  
 <p align="center">
