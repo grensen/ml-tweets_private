@@ -334,6 +334,13 @@ Just my journey on Twitter this year
 
 [No moat, Germans understand](https://twitter.com/jelleprins/status/1654197249981796358)
 
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/do_better.png" >
+</p>
+
+[Do_better... Just do better](https://twitter.com/emollick/status/1658698874117308417)
+
 ## Jun
 
 ##
@@ -457,6 +464,19 @@ Just my journey on Twitter this year
 
 [State of the art in capitalism](https://twitter.com/abacaj/status/1676446885433810945)
 
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/dynamic_weights.png" >
+</p>
+
+[Dynamic weights, I need to think about that](https://twitter.com/rasbt/status/1683474818790825985)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/nerfed_gpt.png" >
+</p>
+
+[Nerfed GPT? No...](https://twitter.com/MLStreetTalk/status/1681601123424116736)
 
 ## Aug
 <p align="center">
@@ -506,6 +526,13 @@ Just my journey on Twitter this year
 </p>
 
 [Loss is meaningless, like accuracy, sometimes!](https://twitter.com/Teknium1/status/1703227799979663408)
+
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/means.png" >
+</p>
+
+[More means](https://twitter.com/levikul09/status/1699074925007679626)
 
 ##
 <p align="center">
@@ -632,35 +659,6 @@ Just my journey on Twitter this year
 </p>
 
 [Grok grokked it](https://twitter.com/TheGregYang/status/1721247954852626764)
-
-##  
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/dynamic_weights.png" >
-</p>
-
-[Dynamic weights, I need to think about that](https://twitter.com/rasbt/status/1683474818790825985)
-
-##  
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/do_better.png" >
-</p>
-
-[Do_better... Just do better](https://twitter.com/emollick/status/1658698874117308417)
-
-##  
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/nerfed_gpt.png" >
-</p>
-
-[Nerfed GPT? No...](https://twitter.com/MLStreetTalk/status/1681601123424116736)
-
-##  
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/means.png" >
-</p>
-
-[More means](https://twitter.com/levikul09/status/1699074925007679626)
-
 
 ## Can't wait for Season 2 
 
