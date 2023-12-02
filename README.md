@@ -500,7 +500,70 @@ Just my journey on Twitter this year
 
 [Python everytime!](https://twitter.com/miniapeur/status/1690009212858896384)
 
-##  
+## Sep
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/meaningless_loss.png" >
+</p>
+
+[Loss is meaningless, like accuracy, sometimes!](https://twitter.com/Teknium1/status/1703227799979663408)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/relu_knowledge.png" >
+</p>
+
+[ReLU knowledge](https://twitter.com/levikul09/status/1702238113416761679)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/prompting_tricks.png" >
+</p>
+
+[Focused AI, if you know how](https://twitter.com/deliprao/status/1700919366886334866)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/3d_gaussian_splatting.png" >
+</p>
+
+[3D Gaussian Splatting lads](https://twitter.com/alexcarliera/status/1699096373814079548)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/seeds_for_u.png" >
+</p>
+
+[Improve your deep learning models](https://twitter.com/rasbt/status/1697612774287737226)
+
+## Oct
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/before_openai_gate.png" >
+</p>
+
+[Is this the upcoming Q* that everyone is talking about?](https://twitter.com/proceduralia/status/1716893740365713856)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/the_dataset_effect.png" >
+</p>
+
+[The dataset effect](https://twitter.com/rasbt/status/1719387776729375058)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/legends.png" >
+</p>
+
+[ML/AI Legends](https://twitter.com/ylecun/status/1715793616415654394)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/mean_lectures.png" >
+</p>
+
+[Means, means, means](https://twitter.com/levikul09/status/1713846042058453173)
+
+## Nov
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/pika_image_video.png" >
 </p>
@@ -569,70 +632,6 @@ Just my journey on Twitter this year
 </p>
 
 [Grok grokked it](https://twitter.com/TheGregYang/status/1721247954852626764)
-
-## Sep
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/meaningless_loss.png" >
-</p>
-
-[Loss is meaningless, like accuracy, sometimes!](https://twitter.com/Teknium1/status/1703227799979663408)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/relu_knowledge.png" >
-</p>
-
-[ReLU knowledge](https://twitter.com/levikul09/status/1702238113416761679)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/prompting_tricks.png" >
-</p>
-
-[Focused AI, if you know how](https://twitter.com/deliprao/status/1700919366886334866)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/3d_gaussian_splatting.png" >
-</p>
-
-[3D Gaussian Splatting lads](https://twitter.com/alexcarliera/status/1699096373814079548)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/seeds_for_u.png" >
-</p>
-
-[Improve your deep learning models](https://twitter.com/rasbt/status/1697612774287737226)
-
-## Oct
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/before_openai_gate.png" >
-</p>
-
-[Is this the upcoming Q* that everyone is talking about?](https://twitter.com/proceduralia/status/1716893740365713856)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/the_dataset_effect.png" >
-</p>
-
-[The dataset effect](https://twitter.com/rasbt/status/1719387776729375058)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/legends.png" >
-</p>
-
-[ML/AI Legends](https://twitter.com/ylecun/status/1715793616415654394)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/mean_lectures.png" >
-</p>
-
-[Means, means, means](https://twitter.com/levikul09/status/1713846042058453173)
-
 
 ##  
 <p align="center">
