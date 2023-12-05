@@ -210,13 +210,6 @@ Just my journey on Twitter this year
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/voice_audio_translation.png" >
-</p>
-
-[Translation with voice](https://twitter.com/heyBarsee/status/1652625721309765632)
-
-##
-<p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/i_like.png" >
 </p>
 
@@ -229,19 +222,34 @@ Just my journey on Twitter this year
 
 [This is real AI Rap!](https://twitter.com/ricburton/status/1650695702849392641)
 
-## May
+##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_tricks.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/voice_audio_translation.png" >
 </p>
 
-[ML tricks](https://twitter.com/FrnkNlsn/status/1663776990955188225)
+[Translation with voice](https://twitter.com/heyBarsee/status/1652625721309765632)
+
+
+## May
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/no_moat.png" >
+</p>
+
+[No moat, Germans understand](https://twitter.com/jelleprins/status/1654197249981796358)
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/token_crisis.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/fix_is_all_u_need.png" >
 </p>
 
-[We train them only once??????](https://twitter.com/rasbt/status/1663534498905051144)
+[Of course I know, similar to Bach-Norm paper!](https://twitter.com/rasbt/status/1655575611979489282)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/eigenvalues.png" >
+</p>
+
+[Eigenvalues, where eigen means self](https://twitter.com/TivadarDanka/status/1655879290146398208)
 
 ##
 <p align="center">
@@ -313,27 +321,6 @@ Just my journey on Twitter this year
 
 [Stop this sh...](https://twitter.com/0xgaut/status/1656476983038038017)
 
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/eigenvalues.png" >
-</p>
-
-[Eigenvalues, where eigen means self](https://twitter.com/TivadarDanka/status/1655879290146398208)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/fix_is_all_u_need.png" >
-</p>
-
-[Of course I know, similar to Bach-Norm paper!](https://twitter.com/rasbt/status/1655575611979489282)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/no_moat.png" >
-</p>
-
-[No moat, Germans understand](https://twitter.com/jelleprins/status/1654197249981796358)
-
 ##  
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/do_better.png" >
@@ -341,54 +328,26 @@ Just my journey on Twitter this year
 
 [Do_better... Just do better](https://twitter.com/emollick/status/1658698874117308417)
 
-## Jun
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/more_context_more.png" >
-</p>
-
-[More context](https://twitter.com/cwolferesearch/status/1674850478872461319)
-
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/u_should_know_them.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/token_crisis.png" >
 </p>
 
-[The Goodboys](https://twitter.com/MLStreetTalk/status/1672699066709336068)
+[We train them only once??????](https://twitter.com/rasbt/status/1663534498905051144)
 
-##
+## 
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/transformer_temperature.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_tricks.png" >
 </p>
 
-[Transformer temperature](https://twitter.com/cwolferesearch/status/1671628210180698112)
+[ML tricks](https://twitter.com/FrnkNlsn/status/1663776990955188225)
 
-##
+## Jun 
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/she_is_now_ai_researcher.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/wish_i_could.png" >
 </p>
 
-[A new AI researcher is born](https://twitter.com/anammostarac/status/1670951084884647936)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/supports_xgboost_without_examples.png" >
-</p>
-
-[Attention girls](https://twitter.com/tunguz/status/1669868842536022016)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/writes_nice_dl_books.png" >
-</p>
-
-[The book was more understandable, but why not?](https://twitter.com/francoisfleuret/status/1669751948487143424)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/good_questions.png" >
-</p>
-
-[Pen and paper stuff!](https://twitter.com/pmddomingos/status/1669072221489496070)
+[Wish I could](https://twitter.com/a_kazemnejad/status/1664277559968927744)
 
 ##
 <p align="center">
@@ -399,10 +358,45 @@ Just my journey on Twitter this year
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/wish_i_could.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/good_questions.png" >
 </p>
 
-[Wish I could](https://twitter.com/a_kazemnejad/status/1664277559968927744)
+[Pen and paper stuff!](https://twitter.com/pmddomingos/status/1669072221489496070)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/writes_nice_dl_books.png" >
+</p>
+
+[The book was more understandable, but why not?](https://twitter.com/francoisfleuret/status/1669751948487143424)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/supports_xgboost_without_examples.png" >
+</p>
+
+[Attention girls](https://twitter.com/tunguz/status/1669868842536022016)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/she_is_now_ai_researcher.png" >
+</p>
+
+[A new AI researcher is born](https://twitter.com/anammostarac/status/1670951084884647936)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/transformer_temperature.png" >
+</p>
+
+[Transformer temperature](https://twitter.com/cwolferesearch/status/1671628210180698112)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/u_should_know_them.png" >
+</p>
+
+[The Goodboys](https://twitter.com/MLStreetTalk/status/1672699066709336068)
 
 ##  
 <p align="center">
@@ -410,6 +404,13 @@ Just my journey on Twitter this year
 </p>
 
 [AIM, remember that](https://twitter.com/MSFTResearch/status/1673730913471979522)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/more_context_more.png" >
+</p>
+
+[More context](https://twitter.com/cwolferesearch/status/1674850478872461319)
 
 ## Jul
 
