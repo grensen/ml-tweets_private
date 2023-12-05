@@ -98,6 +98,27 @@ Just my journey on Twitter this year
 
 ##
 <p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/statquest.png" >
+</p>
+
+[Statquest, BAM! BAM! BAM!](https://twitter.com/joshuastarmer/status/1635259006276222976)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_low_level.png" >
+</p>
+
+[Low level engineering fun](https://twitter.com/mhevery/status/1635492705315999744)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/closed_ai.png" >
+</p>
+
+[Closed]()
+
+##
+<p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ai_addition.png" >
 </p>
 
@@ -112,13 +133,6 @@ Just my journey on Twitter this year
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/llms_in_all_devices.png" >
-</p>
-
-[LLMs_for GPU poors](https://twitter.com/sepia_fw/status/1637741839380824066)
-
-##
-<p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/gpt_training.png" >
 </p>
 
@@ -126,24 +140,10 @@ Just my journey on Twitter this year
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/closed_ai.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/llms_in_all_devices.png" >
 </p>
 
-[Closed]()
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_low_level.png" >
-</p>
-
-[Low level engineering fun](https://twitter.com/mhevery/status/1635492705315999744)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/statquest.png" >
-</p>
-
-[Statquest, BAM! BAM! BAM!](https://twitter.com/joshuastarmer/status/1635259006276222976)
+[LLMs_for GPU poors](https://twitter.com/sepia_fw/status/1637741839380824066)
 
 ##  
 <p align="center">
@@ -217,17 +217,17 @@ Just my journey on Twitter this year
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/sota_ai_rap.png" >
-</p>
-
-[This is real AI Rap!](https://twitter.com/ricburton/status/1650695702849392641)
-
-##
-<p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/i_like.png" >
 </p>
 
 [Ace!](https://twitter.com/ylecun/status/1650521188307726337)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/sota_ai_rap.png" >
+</p>
+
+[This is real AI Rap!](https://twitter.com/ricburton/status/1650695702849392641)
 
 ## May
 <p align="center">
@@ -342,8 +342,6 @@ Just my journey on Twitter this year
 [Do_better... Just do better](https://twitter.com/emollick/status/1658698874117308417)
 
 ## Jun
-
-##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/more_context_more.png" >
 </p>
