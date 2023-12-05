@@ -229,7 +229,6 @@ Just my journey on Twitter this year
 
 [Translation with voice](https://twitter.com/heyBarsee/status/1652625721309765632)
 
-
 ## May
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/no_moat.png" >
@@ -253,10 +252,31 @@ Just my journey on Twitter this year
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/fake_till_GPT_make_it.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/how_it_starts.png" >
 </p>
 
-[Fake it till you make it](https://twitter.com/karlbooklover/status/1661187387328802816)
+[Twitter goes AI](https://twitter.com/tunguz/status/1656749321633558538)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/say_hello_in_rl.png" >
+</p>
+
+[Stop this sh...](https://twitter.com/0xgaut/status/1656476983038038017)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/attention_please.png" >
+</p>
+
+[More attention please](https://twitter.com/akshay_pachaar/status/1657368551471333384)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/not_only_llms.png" >
+</p>
+
+[Not only LLMs, or not?](https://twitter.com/alyssamvance/status/1657204442746298368)
 
 ##
 <p align="center">
@@ -293,40 +313,19 @@ Just my journey on Twitter this year
 
 [Floating point errors in binary devices](https://twitter.com/JoernLoviscach/status/1657658032455647234)
 
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/attention_please.png" >
-</p>
-
-[More attention please](https://twitter.com/akshay_pachaar/status/1657368551471333384)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/not_only_llms.png" >
-</p>
-
-[Not only LLMs, or not?](https://twitter.com/alyssamvance/status/1657204442746298368)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/how_it_starts.png" >
-</p>
-
-[Twitter goes AI](https://twitter.com/tunguz/status/1656749321633558538)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/say_hello_in_rl.png" >
-</p>
-
-[Stop this sh...](https://twitter.com/0xgaut/status/1656476983038038017)
-
 ##  
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/do_better.png" >
 </p>
 
 [Do_better... Just do better](https://twitter.com/emollick/status/1658698874117308417)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/fake_till_GPT_make_it.png" >
+</p>
+
+[Fake it till you make it](https://twitter.com/karlbooklover/status/1661187387328802816)
 
 ##
 <p align="center">
@@ -416,38 +415,10 @@ Just my journey on Twitter this year
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/llama2_details.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/so_true.png" >
 </p>
 
-[RLHF used in Africa first](https://twitter.com/rasbt/status/1685996481915076608)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/idk.png" >
-</p>
-
-[Dear Professor... (Midjourney)](https://twitter.com/JoernLoviscach/status/1685741973364183040)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/doomer_stuff.png" >
-</p>
-
-[Good AI turns in minus](https://twitter.com/andyzou_jiaming/status/1684766170766004224)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/sad_stories.png" >
-</p>
-
-[Sad stories in 2023](https://twitter.com/dmimno/status/1684011858574057472)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/in_love_with_andrej.png" >
-</p>
-
-[Llama 2 in love with Andrej](https://twitter.com/karpathy/status/1683143097604243456)
+[State of the art in capitalism](https://twitter.com/abacaj/status/1676446885433810945)
 
 ##
 <p align="center">
@@ -458,17 +429,38 @@ Just my journey on Twitter this year
 
 ##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/so_true.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/in_love_with_andrej.png" >
 </p>
 
-[State of the art in capitalism](https://twitter.com/abacaj/status/1676446885433810945)
+[Llama 2 in love with Andrej](https://twitter.com/karpathy/status/1683143097604243456)
 
-##  
+##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/dynamic_weights.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/sad_stories.png" >
 </p>
 
-[Dynamic weights, I need to think about that](https://twitter.com/rasbt/status/1683474818790825985)
+[Sad stories in 2023](https://twitter.com/dmimno/status/1684011858574057472)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/doomer_stuff.png" >
+</p>
+
+[Good AI turns in minus](https://twitter.com/andyzou_jiaming/status/1684766170766004224)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/idk.png" >
+</p>
+
+[Dear Professor... (Midjourney)](https://twitter.com/JoernLoviscach/status/1685741973364183040)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/llama2_details.png" >
+</p>
+
+[RLHF used in Africa first](https://twitter.com/rasbt/status/1685996481915076608)
 
 ##  
 <p align="center">
@@ -477,33 +469,14 @@ Just my journey on Twitter this year
 
 [Nerfed GPT? No...](https://twitter.com/MLStreetTalk/status/1681601123424116736)
 
+##  
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/dynamic_weights.png" >
+</p>
+
+[Dynamic weights, I need to think about that](https://twitter.com/rasbt/status/1683474818790825985)
+
 ## Aug
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_fun.png" >
-</p>
-
-[ML fun, thats my detection system below](https://twitter.com/miniapeur/status/1695573709350695279)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/cosine_similarity.png" >
-</p>
-
-[Cosine similarity](https://twitter.com/levikul09/status/1695372473896714423)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ai_art.png" >
-</p>
-
-[AI in such a handsome way](https://twitter.com/Aiming_AI/status/1694329893293904030)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/he_did_it.png" >
-</p>
-
-[He did it, another flashcard](https://twitter.com/chrisalbon/status/1693624071039160785)
 
 ##
 <p align="center">
@@ -519,12 +492,49 @@ Just my journey on Twitter this year
 
 [Python everytime!](https://twitter.com/miniapeur/status/1690009212858896384)
 
-## Sep
+##
 <p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/meaningless_loss.png" >
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/he_did_it.png" >
 </p>
 
-[Loss is meaningless, like accuracy, sometimes!](https://twitter.com/Teknium1/status/1703227799979663408)
+[He did it, another flashcard](https://twitter.com/chrisalbon/status/1693624071039160785)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ai_art.png" >
+</p>
+
+[AI in such a handsome way](https://twitter.com/Aiming_AI/status/1694329893293904030)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/cosine_similarity.png" >
+</p>
+
+[Cosine similarity](https://twitter.com/levikul09/status/1695372473896714423)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/ml_fun.png" >
+</p>
+
+[ML fun, thats my detection system below](https://twitter.com/miniapeur/status/1695573709350695279)
+
+## Sep
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/seeds_for_u.png" >
+</p>
+
+[Improve your deep learning models](https://twitter.com/rasbt/status/1697612774287737226)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/3d_gaussian_splatting.png" >
+</p>
+
+[3D Gaussian Splatting lads](https://twitter.com/alexcarliera/status/1699096373814079548)
 
 ##  
 <p align="center">
@@ -542,26 +552,36 @@ Just my journey on Twitter this year
 
 ##
 <p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/meaningless_loss.png" >
+</p>
+
+[Loss is meaningless, like accuracy, sometimes!](https://twitter.com/Teknium1/status/1703227799979663408)
+
+##
+<p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/prompting_tricks.png" >
 </p>
 
 [Focused AI, if you know how](https://twitter.com/deliprao/status/1700919366886334866)
 
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/3d_gaussian_splatting.png" >
-</p>
-
-[3D Gaussian Splatting lads](https://twitter.com/alexcarliera/status/1699096373814079548)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/seeds_for_u.png" >
-</p>
-
-[Improve your deep learning models](https://twitter.com/rasbt/status/1697612774287737226)
-
 ## Oct
+
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/mean_lectures.png" >
+</p>
+
+[Means, means, means](https://twitter.com/levikul09/status/1713846042058453173)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/legends.png" >
+</p>
+
+[ML/AI Legends](https://twitter.com/ylecun/status/1715793616415654394)
+
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/before_openai_gate.png" >
 </p>
@@ -575,21 +595,37 @@ Just my journey on Twitter this year
 
 [The dataset effect](https://twitter.com/rasbt/status/1719387776729375058)
 
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/legends.png" >
-</p>
-
-[ML/AI Legends](https://twitter.com/ylecun/status/1715793616415654394)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/mean_lectures.png" >
-</p>
-
-[Means, means, means](https://twitter.com/levikul09/status/1713846042058453173)
-
 ## Nov
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/learning_loops.png" >
+</p>
+
+[Learning loops](https://twitter.com/JoernLoviscach/status/1721227949754474608)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/they_know.png" >
+</p>
+
+[Grok grokked it](https://twitter.com/TheGregYang/status/1721247954852626764)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/joint_plots.png" >
+</p>
+
+[Joint plots, awesome!](https://twitter.com/freest_man/status/1723713119401525592)
+
+##
+<p align="center">
+    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/part_of_story.png" >
+</p>
+
+[GoT vibes in the house, but wait, on Twitter?](https://twitter.com/tunguz/status/1725680150245728461)
+
+##
 <p align="center">
     <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/pika_image_video.png" >
 </p>
@@ -630,34 +666,6 @@ Just my journey on Twitter this year
 </p>
 
 [GPT_attention, the non middle stuff](https://twitter.com/ZainHasan6/status/1726338773158408268)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/part_of_story.png" >
-</p>
-
-[GoT vibes in the house, but wait, on Twitter?](https://twitter.com/tunguz/status/1725680150245728461)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/joint_plots.png" >
-</p>
-
-[Joint plots, awesome!](https://twitter.com/freest_man/status/1723713119401525592)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/learning_loops.png" >
-</p>
-
-[Learning loops](https://twitter.com/JoernLoviscach/status/1721227949754474608)
-
-##
-<p align="center">
-    <img src="https://github.com/grensen/ml-tweets_private/blob/main/figures/they_know.png" >
-</p>
-
-[Grok grokked it](https://twitter.com/TheGregYang/status/1721247954852626764)
 
 ## Can't wait for Season 2 
 
